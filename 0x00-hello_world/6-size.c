@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
- * main - A program that prints the size of various computer types
- * Return 0 (Success)
+ * main - to print the size of data types
+ *
+ * Return: always (0)
+ *
  */
 int main(void)
 {
